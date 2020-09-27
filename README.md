@@ -1,6 +1,6 @@
 ## 👋 Hi there! I am Muhammad Hassan Zahid.
 
-- 🏫 Currently studing <b>Bachelors in Science in Computer Science (BSCS)</b> at <b>FAST NUCES Karachi</b>.
+- 🏫 Currently studying <b>Bachelors in Science in Computer Science (BSCS)</b> at <b>FAST NUCES Karachi</b>.
 - 🔧 My expertise mainly lies in solving real world problems using web implementations.
 - 📖 I am currently spending time learning various web technologies, CI/CD and cloud computing.
 
