@@ -13,22 +13,27 @@
 
 ## 🔤 Languages:
 
+<div>
 <img src="img/logo1.png" height="50" width="50px">
 <img src="img/logo2.svg" height="50" width="50px">
 <img src="img/logo3.svg" height="50" width="50px">
 <img src="img/logo4.svg" height="50" width="50px">
 <img src="img/logo6.svg" height="50" width="50px">
 <img src="img/logo7.png" height="50" width="50px">
+</div>
 
 ## :gear: Frameworks:
 
+<div>
 <img src="img/logo5.svg" height="50" width="80px">
 <img src="img/logo10.svg" height="50" width="80px">
 <img src="img/logo8.svg" height="50" width="80px">
 <img src="img/logo9.svg" height="50" width="80px">
+</div>
 
 ## 🛠 Tools:
 
+<div>
 <img src="img/logo17.svg" height="50" width="50px">
 <img src="img/logo11.webp" style="padding-left: 10px;" height="50" width="50px">
 <img src="img/logo14.svg" style="padding-left: 10px;" height="50" width="50px">
@@ -39,6 +44,7 @@
 <img src="img/logo15.png" height="50" width="50px">
 <img src="img/logo18.png" height="50" width="50px">
 <img src="img/logo20.png" height="50" width="50px">
+</div>
 
 ## My Github stats:
 
