@@ -9,7 +9,7 @@
 - [The Year Book](https://github.com/hassanzhd/the-year-book) - a simple web based year book application which manages entries based on batches.
 - [Comet Dashboard](https://github.com/hassanzhd/Comet-Dashboard) - a minimalist dashboard extension that replaces the default new tab layout of google chrome.
 - [Assembly for VSCode](https://github.com/hassanzhd/Assembly-For-VScode) - a minimal package that helps in x86 assembly programming on windows.
-- [Showroom management system](https://github.com/hassanzhd/Management-System-Vectors) - an oop project that is dedicated for the management of records (management/employees) in a car showroom.
+- [Showroom management system](https://github.com/hassanzhd/Management-System-Vectors) - an oop project that is dedicated for the management of records (management/ employees) in a car showroom.
 
 ## 🔤 Languages:
 
