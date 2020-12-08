@@ -6,6 +6,7 @@
 
 ## 🚀 Some personal projects:
 
+- [Terrabuzz](https://github.com/Terrabuzz/Terrabuzz) - Just a social media application idea by University students.
 - [The Year Book](https://github.com/hassanzhd/the-year-book) - a simple web based year book application which manages entries based on batches.
 - [Comet Dashboard](https://github.com/hassanzhd/Comet-Dashboard) - a minimalist dashboard extension that replaces the default new tab layout of google chrome.
 - [Assembly for VSCode](https://github.com/hassanzhd/Assembly-For-VScode) - a minimal package that helps in x86 assembly programming on windows.
